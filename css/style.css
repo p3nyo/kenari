@@ -1,0 +1,63 @@
+/* ========= Umum ========= */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f9f6; /* latar belakang umum */
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4 {
+  color: #2e5339;
+}
+
+a {
+  color: #2c7a4b;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+<style>
+/* ========= Event ========= */
+<style>
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon 
+  {
+    background-color: rgba(0, 0, 0, 0.7); /* warna gelap */
+    border-radius: 50%;
+	 background-size: 100% 100%;
+   }
+ </style>  
+
+ /*=====testimoni=====*/
+ 
+  </style>
+  .testimoni-box {
+      background-color: #e0f4e4;
+      padding: 10px;
+      border: 1px solid #ccc;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      border-radius: 30px;
+	  width: 500px;
+      height:150px;
+    }
+    .testimoni-box img {
+      width: 80px;
+      height: 80px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-right: 15px;
+    }
+    .testimoni-form {
+      background: #f4efe0;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+	 </style>  

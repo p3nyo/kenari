@@ -1,0 +1,23 @@
+[
+    {
+        "tipe": "DELUXE",
+        "fasilitas": "AC, Double Bed, sarapan",
+        "harga": "850000",
+        "diskon": "",
+        "foto": "1753717861_lobi.png"
+    },
+    {
+        "tipe": "DELUXE POOL ACCESS",
+        "fasilitas": "AC, Queen Bed, sarapan, Laundry",
+        "harga": "1000000",
+        "diskon": "",
+        "foto": "1753717977_1753416847_deluxe.jpg"
+    },
+    {
+        "tipe": "SUPERIOR",
+        "fasilitas": "AC, Double Bed, sarapan, Laundry",
+        "harga": "1250000",
+        "diskon": "15%",
+        "foto": "1753718028_1753416273_deluxe2.jpg"
+    }
+]

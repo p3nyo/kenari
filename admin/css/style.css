@@ -1,0 +1,21 @@
+/* ========= Umum ========= */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f9f6; /* latar belakang umum */
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4 {
+  color: #2e5339;
+}
+
+a {
+  color: #2c7a4b;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

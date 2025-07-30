@@ -1,0 +1,24 @@
+[
+    {
+        "tanggal_pesan": "28-07-2025",
+        "nama": "Antonius Eko Prasetyo",
+        "alamat": "perum Taman Walet Blok WRC 6\/3",
+        "nohp": "081314380928",
+        "email": "trisha@imut.com",
+        "jumlah_orang": 2,
+        "tipe_kamar": "Deluxe",
+        "checkin": "29-07-2025",
+        "checkout": "31-07-2025"
+    },
+    {
+        "tanggal_pesan": "28-07-2025",
+        "nama": "TRISHA",
+        "alamat": "jl panjang, Jakarta Barat",
+        "nohp": "0834125679",
+        "email": "-",
+        "jumlah_orang": 2,
+        "tipe_kamar": "Deluxe Pool Access",
+        "checkin": "30-07-2025",
+        "checkout": "02-08-2025"
+    }
+]

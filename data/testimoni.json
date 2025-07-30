@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "SLAMET PS",
+        "alamat": "Wonosobo",
+        "nohp": "",
+        "pesan": "TERLANJUR SUKA",
+        "foto": "",
+        "tampil": true
+    },
+    {
+        "nama": "Antonius Eko Prasetyo",
+        "alamat": "Tangerang",
+        "nohp": "083452567",
+        "pesan": "hotel bagus dan nyaman, indah pemandagannya",
+        "foto": "6884f063a2cfa.png",
+        "tampil": true
+    },
+    {
+        "nama": "bayam",
+        "alamat": "Tangerang",
+        "nohp": "",
+        "pesan": "hotel bagus, pelayanan mantap\r\n",
+        "foto": "",
+        "tampil": true
+    }
+]
